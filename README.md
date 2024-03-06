@@ -1,5 +1,6 @@
 # mora-currency-convert
 摩拉/现实货币的转化表 - Mora/Real Money conversion table
+如有错误或其他见解请在Issues中说明
 
 使用了各个通货和星尘进行计算
 
